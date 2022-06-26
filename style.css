@@ -1,0 +1,22 @@
+.heading{
+    width:100%;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: left;
+}
+h3{
+display:inline;
+}
+#instructions{
+    float:right;
+    border: 1px,solid,whitesmoke;
+}
+#big_mario{
+    width:100%;
+}
+#status,#start{
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align:center;
+}
